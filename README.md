@@ -86,7 +86,6 @@ Contributions are welcome! Please follow these steps:
 
 - **Repository**: [PHom798/TravelMate-Mobile](https://github.com/PHom798/TravelMate-Mobile)
 - **Author**: P. Hom
-- **Email**: youremail@example.com
 
 Enjoy using TravelMate! 🚌✨
 
